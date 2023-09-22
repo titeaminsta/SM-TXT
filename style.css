@@ -263,12 +263,12 @@ input:-ms-input-placeholder{
 }
 
 .app-download:nth-child(1){
-    background-image: url('./images/apple-store-button.png');
+    background-image: url('apple-store-button.png');
     background-repeat: no-repeat;
 }
 
 .app-download:nth-child(2){
-    background-image: url('./images/google-play-button.png');
+    background-image: url('google-play-button.png');
     background-repeat: no-repeat;
 }
 
